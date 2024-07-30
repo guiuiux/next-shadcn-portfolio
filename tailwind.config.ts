@@ -18,6 +18,12 @@ const config = {
       },
     },
     extend: {
+      // Meus itens CUSTOM
+      
+        maxWidth: {
+          'container': '920px',
+        },
+      // Fim dos meus itens custom
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
